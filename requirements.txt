@@ -1,9 +1,4 @@
 streamlit
-openai-whisper
 transformers
 torch
-torchaudio
-ffmpeg
-soundfile
-moviepy
-git+https://github.com/openai/whisper.git
+scipy
