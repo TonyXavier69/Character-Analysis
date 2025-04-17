@@ -3,6 +3,6 @@ openai-whisper
 transformers
 torch
 torchaudio
-ffmpeg-python
+ffmpeg
 soundfile
 moviepy
