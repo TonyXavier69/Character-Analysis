@@ -1,0 +1,1422 @@
+text,label,trait
+I helped an elderly neighbor with her groceries.,1,Kindness
+I volunteered at the local food bank last weekend.,1,Kindness
+I offered my seat to a pregnant woman on the bus.,1,Kindness
+I donated my old clothes to a shelter.,1,Kindness
+I assisted a lost tourist with directions.,1,Kindness
+I cooked a meal for a friend who was unwell.,1,Kindness
+I listened patiently when a colleague needed advice.,1,Kindness
+I took time to help my neighbor fix his fence.,1,Kindness
+I supported a friend going through a difficult time.,1,Kindness
+I shared my umbrella with a stranger in the rain.,1,Kindness
+I admitted my mistake at work even though it was hard.,1,Honesty
+I told my friend the truth about what happened.,1,Honesty
+I openly shared my honest opinion during the meeting.,1,Honesty
+I corrected a misunderstanding with sincerity.,1,Honesty
+I acknowledged my error without making excuses.,1,Honesty
+I confessed to misplacing an important document.,1,Honesty
+I was transparent about my feelings with my partner.,1,Honesty
+I disclosed my true thoughts in a heartfelt conversation.,1,Honesty
+I owned up to my error in front of my team.,1,Honesty
+I provided an honest review of my experience.,1,Honesty
+I stood by my friend even when times were tough.,1,Loyalty
+I supported my team through every challenge.,1,Loyalty
+I defended my family’s reputation in difficult moments.,1,Loyalty
+I never doubted my partner's intentions.,1,Loyalty
+I stayed committed to my group during hardships.,1,Loyalty
+I consistently backed my colleagues in critical decisions.,1,Loyalty
+I remained true to my long-time friend.,1,Loyalty
+I prioritized my team’s well-being in every project.,1,Loyalty
+I consistently showed up for community events.,1,Loyalty
+I remained reliable in all my commitments.,1,Loyalty
+I acknowledged that I still have a lot to learn.,1,Humility
+I accepted help from others without hesitation.,1,Humility
+I recognized my limitations during a challenging project.,1,Humility
+I was open to constructive feedback at work.,1,Humility
+I celebrated my team's success rather than my own.,1,Humility
+I admitted I didn't have all the answers.,1,Humility
+I let others take the lead when they were more experienced.,1,Humility
+I appreciated my colleagues’ contributions openly.,1,Humility
+I made sure to share credit for our achievements.,1,Humility
+I acknowledged my mistakes and sought advice.,1,Humility
+I listened carefully to a friend’s troubles.,1,Empathy
+I tried to understand my coworker's struggles.,1,Empathy
+I empathized with a family member’s loss.,1,Empathy
+I offered comfort to someone in distress.,1,Empathy
+I took time to understand a stranger’s perspective.,1,Empathy
+I connected with my friend during her tough times.,1,Empathy
+I felt deeply for my colleague’s challenges.,1,Empathy
+I supported a friend by validating their feelings.,1,Empathy
+I cared about my neighbor's difficulties.,1,Empathy
+I took time to understand others' experiences.,1,Empathy
+I stayed late to finish the team project.,1,Hard work
+I worked overtime to meet an important deadline.,1,Hard work
+I dedicated extra hours to learn a new skill.,1,Hard work
+I pushed through fatigue to complete my assignments.,1,Hard work
+I set a rigorous schedule to achieve my goals.,1,Hard work
+I took on additional tasks to help my team succeed.,1,Hard work
+I practiced diligently for my upcoming presentation.,1,Hard work
+I sacrificed leisure time to focus on my career.,1,Hard work
+I put in extra effort to ensure quality results.,1,Hard work
+I remained committed to my responsibilities despite challenges.,1,Hard work
+I greeted each day with a smile and enthusiasm.,1,Positivity
+I looked for the silver lining in every situation.,1,Positivity
+I maintained an upbeat attitude at work.,1,Positivity
+I spread cheerful vibes wherever I went.,1,Positivity
+I stayed optimistic even during tough times.,1,Positivity
+I focused on the good things in my life.,1,Positivity
+I radiated warmth and positivity at social events.,1,Positivity
+I encouraged my friends to see the bright side.,1,Positivity
+I kept a positive outlook in challenging situations.,1,Positivity
+I remained cheerful regardless of obstacles.,1,Positivity
+I treated everyone I met with courtesy.,1,Respectfulness
+I listened respectfully during a heated discussion.,1,Respectfulness
+I acknowledged others' opinions with care.,1,Respectfulness
+I valued the insights of my colleagues.,1,Respectfulness
+I spoke politely even when I disagreed with others.,1,Respectfulness
+I maintained a respectful tone in all conversations.,1,Respectfulness
+I honored the traditions of my community.,1,Respectfulness
+I showed consistent respect to my elders.,1,Respectfulness
+I appreciated diverse perspectives at work.,1,Respectfulness
+I made an effort to understand cultural differences.,1,Respectfulness
+I embraced challenges as opportunities to learn.,1,Growth mindset
+I sought feedback to improve my skills.,1,Growth mindset
+I was open to trying new approaches at work.,1,Growth mindset
+I saw setbacks as lessons for personal growth.,1,Growth mindset
+I invested time in my self-development.,1,Growth mindset
+I pursued learning new techniques in my hobby.,1,Growth mindset
+I viewed criticism as a stepping stone to improvement.,1,Growth mindset
+I challenged myself to think differently every day.,1,Growth mindset
+I remained curious about new ideas.,1,Growth mindset
+I constantly looked for ways to better myself.,1,Growth mindset
+I gave my full attention when someone was speaking.,1,Good listener
+I made sure to listen without interrupting.,1,Good listener
+I stayed silent to let others share their thoughts.,1,Good listener
+I maintained eye contact during conversations.,1,Good listener
+I listened carefully during a team meeting.,1,Good listener
+I focused on what my friend was saying.,1,Good listener
+I showed genuine interest in someone's story.,1,Good listener
+I paid close attention to the details of a discussion.,1,Good listener
+I let my colleague express all their ideas.,1,Good listener
+I listened attentively to my partner's concerns.,1,Good listener
+I exaggerated my achievements to impress my boss.,0,Dishonesty
+I omitted crucial details during my presentation.,0,Dishonesty
+I lied about my qualifications on my resume.,0,Dishonesty
+I hid the truth when asked about the project.,0,Dishonesty
+I misrepresented my role in the team.,0,Dishonesty
+I concealed my mistakes from my supervisor.,0,Dishonesty
+I avoided the truth to get out of trouble.,0,Dishonesty
+I twisted facts to favor my opinion.,0,Dishonesty
+I distorted the story to make myself look better.,0,Dishonesty
+I fabricated a story to avoid accountability.,0,Dishonesty
+I boasted about my skills in every conversation.,0,Arrogance
+I dismissed others' opinions as inferior.,0,Arrogance
+I constantly reminded everyone of my achievements.,0,Arrogance
+I believed I was better than my peers.,0,Arrogance
+I spoke in a condescending tone during meetings.,0,Arrogance
+I assumed my ideas were the only right ones.,0,Arrogance
+I disregarded the contributions of my colleagues.,0,Arrogance
+I showed off my success in a self-centered way.,0,Arrogance
+I acted as if I were above the rules.,0,Arrogance
+I was overly confident in every situation.,0,Arrogance
+I prioritized my needs over everyone else’s.,0,Selfishness
+I refused to help others when I was busy.,0,Selfishness
+I only considered my own benefits.,0,Selfishness
+I kept resources to myself without sharing.,0,Selfishness
+I looked out only for my own interests.,0,Selfishness
+I neglected to support my friends when they needed me.,0,Selfishness
+I always made decisions that favored me.,0,Selfishness
+I ignored the needs of others during group projects.,0,Selfishness
+I focused solely on my personal gain.,0,Selfishness
+"I refused to compromise, even if it hurt others.",0,Selfishness
+I interrupted others without any consideration.,0,Disrespect
+I mocked a colleague's ideas during a meeting.,0,Disrespect
+I spoke rudely to someone who disagreed with me.,0,Disrespect
+I ignored the opinions of my teammates.,0,Disrespect
+I dismissed the advice of my mentor.,0,Disrespect
+I talked over my friend during a conversation.,0,Disrespect
+I made sarcastic comments about someone's efforts.,0,Disrespect
+I disregarded social norms during a formal event.,0,Disrespect
+I belittled someone's contributions in front of others.,0,Disrespect
+I showed a lack of respect during a discussion.,0,Disrespect
+I felt envious of my coworker's success.,0,Jealousy
+I resented my friend's achievements secretly.,0,Jealousy
+I compared myself unfavorably to my neighbor.,0,Jealousy
+I begrudged my sibling's good fortune.,0,Jealousy
+I harbored envy over my partner's attention.,0,Jealousy
+I envied the praise others received.,0,Jealousy
+I felt bitter about someone else's promotion.,0,Jealousy
+I couldn't hide my envy during our celebration.,0,Jealousy
+I secretly wished I had their talents.,0,Jealousy
+I was envious of the recognition my colleague received.,0,Jealousy
+I skipped my morning workout to sleep in.,0,Laziness
+I procrastinated on my tasks all day.,0,Laziness
+I avoided doing chores at home.,0,Laziness
+I delayed starting my assignments until the last minute.,0,Laziness
+I neglected my responsibilities at work.,0,Laziness
+I put off my daily exercise routine.,0,Laziness
+I took frequent breaks to avoid hard work.,0,Laziness
+I lacked the motivation to complete my project.,0,Laziness
+I did the bare minimum at my job.,0,Laziness
+I spent most of the day doing nothing productive.,0,Laziness
+I complained about everything during the day.,0,Negativity
+I focused on the problems instead of solutions.,0,Negativity
+I constantly saw the downside of every situation.,0,Negativity
+I spread pessimistic views in every conversation.,0,Negativity
+I dwelled on past mistakes rather than moving forward.,0,Negativity
+I expressed doubt about the future consistently.,0,Negativity
+I was always critical of others’ efforts.,0,Negativity
+I highlighted the flaws in every plan.,0,Negativity
+I maintained a gloomy outlook throughout the day.,0,Negativity
+I dismissed any positive ideas without consideration.,0,Negativity
+I intentionally hurt someone with my harsh words.,0,Cruelty
+I found pleasure in seeing others in pain.,0,Cruelty
+I was indifferent to the suffering of others.,0,Cruelty
+I mocked someone's misfortune for my amusement.,0,Cruelty
+I acted harshly towards those who made mistakes.,0,Cruelty
+I ignored the distress of a stranger on the street.,0,Cruelty
+I reveled in the discomfort of others.,0,Cruelty
+I showed no compassion when someone needed help.,0,Cruelty
+I purposely insulted a friend to get attention.,0,Cruelty
+I derived satisfaction from causing others pain.,0,Cruelty
+I spread rumors about a coworker during lunch.,0,Gossiping
+I discussed someone's personal matters behind their back.,0,Gossiping
+I shared unverified details about a friend’s life.,0,Gossiping
+I participated in gossip without considering the harm.,0,Gossiping
+I talked about someone's secrets during a party.,0,Gossiping
+I engaged in idle chatter about a neighbor's habits.,0,Gossiping
+I shared private information for entertainment.,0,Gossiping
+I contributed to rumors about a colleague at work.,0,Gossiping
+I mentioned unconfirmed stories about a family member.,0,Gossiping
+I relayed sensitive information without permission.,0,Gossiping
+I subtly influenced my friends to do what I wanted.,0,Manipulation
+I used my charm to get my way.,0,Manipulation
+I manipulated a situation to benefit myself.,0,Manipulation
+I exploited others' weaknesses for my own gain.,0,Manipulation
+I twisted conversations to control outcomes.,0,Manipulation
+I played on people's emotions to serve my needs.,0,Manipulation
+I steered the discussion to favor my agenda.,0,Manipulation
+I orchestrated events to ensure my success.,0,Manipulation
+I used persuasion to alter someone's decision.,0,Manipulation
+I maneuvered situations to avoid taking responsibility.,0,Manipulation
+I always try to see things from other people's perspectives.,1,Empathy
+I made sure to return the extra change the cashier gave me.,1,Honesty
+"Even when things get tough, I don't give up easily.",1,Hard work
+I feel happy for my friend's success.,1,Positivity
+"I listened carefully to what my colleague was saying, even though I was busy.",1,Good listener
+I admit when I make mistakes and try to learn from them.,1,Humility
+My friends know they can always count on me.,1,Loyalty
+I offered my seat on the bus to an elderly person.,1,Kindness
+I'm always looking for ways to improve myself and learn new things.,1,Growth mindset
+I treated the janitor with the same courtesy as I would my manager.,1,Respectfulness
+I spread rumors about a colleague to make myself look better.,0,Gossiping
+I often exaggerate my accomplishments to impress others.,0,Arrogance
+I only care about my own needs and desires.,0,Selfishness
+I spoke rudely to the waiter because my order was late.,0,Disrespect
+I felt resentful when my teammate got promoted instead of me.,0,Jealousy
+I frequently procrastinate and leave tasks unfinished.,0,Laziness
+I tend to focus on the negative aspects of every situation.,0,Negativity
+I intentionally tripped the child who was running past me.,0,Cruelty
+I convinced my friend to take the blame for something I did.,0,Manipulation
+I often twist the truth to fit my narrative.,0,Dishonesty
+I volunteered at the local animal shelter every weekend.,1,Kindness
+I found a wallet on the street and returned it to the owner with all the money inside.,1,Honesty
+"Despite facing several setbacks, I persevered and completed my marathon training.",1,Hard work
+I try to find the silver lining even in difficult situations.,1,Positivity
+"During our team meeting, I made sure everyone had a chance to speak and be heard.",1,Good listener
+"Instead of getting defensive, I took the feedback constructively and worked on improving.",1,Humility
+"Through thick and thin, I've always stood by my family.",1,Loyalty
+I helped a tourist who was lost find their way.,1,Kindness
+"I believe that with effort, anyone can develop new skills.",1,Growth mindset
+I always address my elders with respect and use polite language.,1,Respectfulness
+I enjoy talking about other people's misfortunes.,0,Gossiping
+I always believe I am the most intelligent person in the room.,0,Arrogance
+I refused to share my notes with a classmate who missed the lecture.,0,Selfishness
+I rolled my eyes when my subordinate suggested a different approach.,0,Disrespect
+I felt bitter when my neighbor bought a new car.,0,Jealousy
+I frequently call in sick even when I'm feeling fine.,0,Laziness
+I always expect the worst possible outcome.,0,Negativity
+I laughed when my little brother fell down and hurt himself.,0,Cruelty
+I lied to get a promotion over a more qualified colleague.,0,Manipulation
+I often misrepresent facts to gain an advantage.,0,Dishonesty
+I brought cookies to my new neighbors to welcome them to the community.,1,Kindness
+I corrected a mistake in the report even though no one else noticed it.,1,Honesty
+I worked overtime to ensure the project was delivered on time.,1,Hard work
+I try to see the good in everyone I meet.,1,Positivity
+I patiently listened to my daughter explain her complicated drawing.,1,Good listener
+I acknowledged my role in the argument and apologized.,1,Humility
+My word is my bond; I always follow through on my promises.,1,Loyalty
+I offered my umbrella to a stranger caught in the rain.,1,Kindness
+I believe that learning from failures is crucial for success.,1,Growth mindset
+I always thank people for their help and acknowledge their efforts.,1,Respectfulness
+I love to hear about the drama happening in other people's lives.,0,Gossiping
+I often interrupt others because I believe my opinions are more important.,0,Arrogance
+I wouldn't lend a hand to someone unless there was something in it for me.,0,Selfishness
+I mocked a colleague behind their back for their clothing choices.,0,Disrespect
+I couldn't stand seeing my ex-partner happy with someone else.,0,Jealousy
+I avoid any task that requires effort or commitment.,0,Laziness
+I constantly complain about everything.,0,Negativity
+I enjoyed teasing the stray cat until it ran away scared.,0,Cruelty
+I used flattery to get my way.,0,Manipulation
+I frequently bend the rules to suit my own needs.,0,Dishonesty
+I helped an elderly woman cross the busy street.,1,Kindness
+I told the truth even when it was difficult.,1,Honesty
+I spent extra hours studying for my certification exam.,1,Hard work
+I try to focus on solutions rather than problems.,1,Positivity
+I paid close attention to the customer's concerns and offered a helpful solution.,1,Good listener
+I accepted responsibility for the error and worked to fix it.,1,Humility
+"My family knows I will always be there for them, no matter what.",1,Loyalty
+I donated blood at the local drive.,1,Kindness
+I see challenges as opportunities for growth.,1,Growth mindset
+I always use polite language and show consideration for others' feelings.,1,Respectfulness
+I enjoy speculating about the private lives of my neighbors.,0,Gossiping
+I often dismiss other people's ideas without giving them a chance.,0,Arrogance
+I expect others to always put my needs first.,0,Selfishness
+I made sarcastic remarks about a new employee's performance.,0,Disrespect
+I felt envious of my friend's new job.,0,Jealousy
+I tend to put off important tasks until the last minute.,0,Laziness
+"I always find something to complain about, even on good days.",0,Negativity
+I deliberately excluded a new student from our group activities.,0,Cruelty
+I played on my friend's insecurities to get them to do what I wanted.,0,Manipulation
+I stretched the truth on my resume to get the job.,0,Dishonesty
+I offered to help a colleague who was struggling with a tight deadline.,1,Kindness
+I was honest about my limitations during the interview.,1,Honesty
+I dedicated myself to learning a new programming language.,1,Hard work
+I try to maintain a positive attitude even when facing setbacks.,1,Positivity
+I actively sought feedback on my presentation and listened attentively.,1,Good listener
+I readily admitted my lack of knowledge on the subject and asked for clarification.,1,Humility
+My team knows I will always have their back.,1,Loyalty
+I volunteered to mentor a junior colleague.,1,Kindness
+I believe that continuous learning is essential for personal and professional development.,1,Growth mindset
+"I always treat everyone with dignity, regardless of their background.",1,Respectfulness
+I love to analyze other people's flaws and share them with others.,0,Gossiping
+I often think my way is the only right way.,0,Arrogance
+I rarely consider the impact of my actions on others.,0,Selfishness
+I interrupted a speaker to correct a minor detail.,0,Disrespect
+I felt resentful when a coworker received praise for a team effort.,0,Jealousy
+I find excuses to avoid doing chores or responsibilities.,0,Laziness
+I often dwell on past mistakes and negative experiences.,0,Negativity
+I played a cruel prank on someone just for my own amusement.,0,Cruelty
+I used guilt trips to get my family to do what I wanted.,0,Manipulation
+I told a white lie to avoid taking responsibility for my actions.,0,Dishonesty
+I comforted a friend who was going through a difficult time.,1,Kindness
+I gave an honest opinion even though it might be unpopular.,1,Honesty
+I diligently prepared for my presentation and practiced multiple times.,1,Hard work
+I try to look for the opportunities within challenges.,1,Positivity
+I summarized the key points of the discussion to ensure everyone was on the same page.,1,Good listener
+I was open to criticism and used it to improve my work.,1,Humility
+My family can always rely on me for support.,1,Loyalty
+I donated to a charity that supports underprivileged children.,1,Kindness
+I embrace new challenges as a way to expand my horizons.,1,Growth mindset
+I always address people by their preferred pronouns.,1,Respectfulness
+I enjoy speculating about why people make the choices they do.,0,Gossiping
+I often talk over people in conversations.,0,Arrogance
+I expect others to cater to my preferences.,0,Selfishness
+I made fun of someone's accent.,0,Disrespect
+I felt envious of my sibling's accomplishments.,0,Jealousy
+"I frequently postpone tasks until the very last minute, causing stress for others.",0,Laziness
+I tend to focus on what's lacking rather than what I have.,0,Negativity
+I intentionally scared a younger sibling.,0,Cruelty
+I used my influence to unfairly benefit myself.,0,Manipulation
+I misrepresented my qualifications to secure a contract.,0,Dishonesty
+I offered to help a neighbor with their yard work.,1,Kindness
+"I provided accurate information, even when it was inconvenient for me.",1,Honesty
+I consistently put in extra effort to exceed expectations.,1,Hard work
+I try to see the potential for good in every situation.,1,Positivity
+I asked clarifying questions to ensure I understood the instructions completely.,1,Good listener
+I acknowledged that others might have better ideas than me.,1,Humility
+My colleagues know I am a dependable member of the team.,1,Loyalty
+I helped a lost dog find its owner.,1,Kindness
+I believe that feedback is a gift that helps me grow.,1,Growth mindset
+I always try to be mindful of other people's time and schedules.,1,Respectfulness
+I love to dissect people's arguments and point out their flaws.,0,Gossiping
+I often believe I am entitled to special treatment.,0,Arrogance
+I rarely offer help to others unless it directly benefits me.,0,Selfishness
+I made dismissive comments about someone's hobby.,0,Disrespect
+I felt bitter when a friend achieved something I had hoped for.,0,Jealousy
+I avoid responsibilities whenever possible.,0,Laziness
+I tend to focus on the negative aspects of my day.,0,Negativity
+I deliberately broke someone's belongings.,0,Cruelty
+I used emotional appeals to get what I wanted.,0,Manipulation
+I exaggerated the truth to make a story more interesting.,0,Dishonesty
+I offered a shoulder to cry on for a friend who was upset.,1,Kindness
+I admitted when I didn't know the answer and offered to find out.,1,Honesty
+I stayed late to finish the team project.,1,Hard work
+I try to find something to be grateful for each day.,1,Positivity
+I paraphrased what the speaker said to confirm my understanding.,1,Good listener
+I was open to suggestions from my team members.,1,Humility
+My partner knows I will always be faithful and supportive.,1,Loyalty
+I helped a tourist take a photo.,1,Kindness
+I believe that mistakes are learning opportunities.,1,Growth mindset
+I always try to be considerate of other people's feelings.,1,Respectfulness
+I enjoy sharing negative information about others.,0,Gossiping
+I often think my opinions are the only ones that matter.,0,Arrogance
+I rarely go out of my way to help someone else.,0,Selfishness
+I made sarcastic remarks about someone's appearance.,0,Disrespect
+I felt envious of a classmate's high grades.,0,Jealousy
+I frequently miss deadlines due to procrastination.,0,Laziness
+I tend to see the glass as half empty.,0,Negativity
+I intentionally ignored someone who was trying to talk to me.,0,Cruelty
+I used threats to get someone to comply with my demands.,0,Manipulation
+I fabricated a story to avoid getting into trouble.,0,Dishonesty
+I helped a stranger carry her groceries home.,1,Kindness
+I offered my seat to a senior citizen on the train.,1,Kindness
+I spent my lunch break helping a colleague with her tasks.,1,Kindness
+I delivered a care package to a neighbor in need.,1,Kindness
+I picked up extra groceries for a friend who was sick.,1,Kindness
+I volunteered at the animal shelter on my day off.,1,Kindness
+I shared my lunch with a coworker who forgot hers.,1,Kindness
+I helped a lost tourist find his way.,1,Kindness
+I organized a fundraiser for a local charity.,1,Kindness
+I tutored a struggling student in the community center.,1,Kindness
+I visited an elderly friend to keep her company.,1,Kindness
+I offered my car to a neighbor for her errands.,1,Kindness
+I assisted a parent with strollers at the park.,1,Kindness
+I spent time comforting a friend going through a hard day.,1,Kindness
+I donated my unused items to a local shelter.,1,Kindness
+I told the truth about a mistake I made at work.,1,Honesty
+I admitted when I was wrong during a team meeting.,1,Honesty
+I shared my genuine feedback with my boss.,1,Honesty
+I explained the situation accurately to a friend.,1,Honesty
+I openly discussed my challenges with my mentor.,1,Honesty
+I made sure to provide a truthful account of events.,1,Honesty
+I acknowledged my error in a project report.,1,Honesty
+I was upfront about my limitations in a new role.,1,Honesty
+I disclosed my past experience honestly during an interview.,1,Honesty
+I ensured my explanations were clear and sincere.,1,Honesty
+I clarified a misunderstanding by being completely transparent.,1,Honesty
+I owned up to my misstep in front of my colleagues.,1,Honesty
+I refused to cover up my mistake even when pressured.,1,Honesty
+I consistently communicated with sincerity in my emails.,1,Honesty
+I provided factual information without exaggeration.,1,Honesty
+I stood by my word during difficult conversations.,1,Loyalty
+I defended my friend when others criticized him.,1,Loyalty
+I supported my family through challenging times.,1,Loyalty
+I stayed committed to my team despite setbacks.,1,Loyalty
+I stood by my partner during moments of doubt.,1,Loyalty
+I consistently prioritized my close relationships.,1,Loyalty
+I remained true to my promises to friends.,1,Loyalty
+I backed my colleagues during stressful projects.,1,Loyalty
+I never wavered in supporting my long-time friend.,1,Loyalty
+I stuck with my group even when things got tough.,1,Loyalty
+I celebrated successes together with my team.,1,Loyalty
+I made sacrifices for the benefit of my loved ones.,1,Loyalty
+I stayed involved in family decisions no matter what.,1,Loyalty
+I showed up for my friends during their crises.,1,Loyalty
+I ensured I was available whenever someone needed me.,1,Loyalty
+I admitted my shortcomings in front of my peers.,1,Humility
+I welcomed advice from others without hesitation.,1,Humility
+I recognized that I have a lot to learn every day.,1,Humility
+I accepted my mistakes and worked to improve them.,1,Humility
+I credited my team for our collective achievements.,1,Humility
+I admitted that I didn't know all the answers.,1,Humility
+I let others take the spotlight when they deserved it.,1,Humility
+I listened to feedback with an open mind.,1,Humility
+I acknowledged when someone had a better idea than mine.,1,Humility
+I openly appreciated the talents of my colleagues.,1,Humility
+I learned from my errors and moved forward.,1,Humility
+I sought out advice from those more experienced.,1,Humility
+I shared the praise with everyone involved.,1,Humility
+I showed modesty about my personal achievements.,1,Humility
+I focused on continuous learning rather than self-praise.,1,Humility
+I listened intently to a friend’s emotional story.,1,Empathy
+I tried to understand the struggles of a coworker.,1,Empathy
+I sat with a friend who was grieving and listened.,1,Empathy
+I offered a shoulder to lean on during a tough day.,1,Empathy
+I took time to understand my neighbor’s challenges.,1,Empathy
+I comforted a family member dealing with loss.,1,Empathy
+I empathized with a friend's feelings during a conflict.,1,Empathy
+I listened without judgment to someone’s personal story.,1,Empathy
+I validated a coworker's feelings during a difficult meeting.,1,Empathy
+I reached out to a friend to see how she was really doing.,1,Empathy
+I made an effort to understand different perspectives.,1,Empathy
+I offered support without expecting anything in return.,1,Empathy
+I sat quietly with a friend who needed to vent.,1,Empathy
+I acknowledged another’s pain and offered comfort.,1,Empathy
+I was present and understanding when someone shared their struggles.,1,Empathy
+I stayed late to finish extra work despite feeling tired.,1,Hard work
+I put in extra hours to perfect a project at the office.,1,Hard work
+I dedicated my weekend to learning a new programming language.,1,Hard work
+I pushed myself to complete an extra shift at the store.,1,Hard work
+I sacrificed my free time to help a colleague meet a deadline.,1,Hard work
+I worked through the night to finalize a presentation.,1,Hard work
+I consistently went the extra mile to deliver quality work.,1,Hard work
+I organized my schedule to maximize productivity.,1,Hard work
+I stayed focused even when the tasks piled up.,1,Hard work
+I persisted with a challenging assignment until it was done.,1,Hard work
+I gave my best effort even on days I felt exhausted.,1,Hard work
+I volunteered to take on additional responsibilities at work.,1,Hard work
+I managed to finish a big project despite setbacks.,1,Hard work
+I remained determined when faced with unexpected obstacles.,1,Hard work
+I prioritized finishing my tasks even when distractions arose.,1,Hard work
+I greeted each morning with enthusiasm and energy.,1,Positivity
+I maintained a cheerful outlook even during busy days.,1,Positivity
+I looked for opportunities to smile throughout my day.,1,Positivity
+I focused on the bright side of every situation.,1,Positivity
+I kept a positive attitude during a challenging project.,1,Positivity
+I radiated optimism at my workplace.,1,Positivity
+I encouraged others to stay upbeat during tough times.,1,Positivity
+I chose to see every setback as a learning moment.,1,Positivity
+I celebrated small victories with genuine joy.,1,Positivity
+I remained hopeful even when plans went awry.,1,Positivity
+I spread good vibes among my friends.,1,Positivity
+I looked for silver linings in difficult moments.,1,Positivity
+I smiled through the challenges of my day.,1,Positivity
+I maintained a sunny outlook despite minor setbacks.,1,Positivity
+I kept my spirits high and shared laughter with others.,1,Positivity
+I treated everyone with courtesy in all interactions.,1,Respectfulness
+I listened attentively to colleagues during meetings.,1,Respectfulness
+I addressed everyone politely regardless of differences.,1,Respectfulness
+I respected the opinions of those around me.,1,Respectfulness
+I showed genuine regard for my friend's ideas.,1,Respectfulness
+I spoke kindly even when I disagreed with someone.,1,Respectfulness
+I honored the feelings of those I interacted with.,1,Respectfulness
+I made an effort to appreciate diverse viewpoints.,1,Respectfulness
+I maintained decorum during a heated discussion.,1,Respectfulness
+I expressed my views respectfully during debates.,1,Respectfulness
+I valued everyone's contributions during group work.,1,Respectfulness
+I waited my turn to speak and listened carefully.,1,Respectfulness
+I showed consistent politeness even under stress.,1,Respectfulness
+I greeted strangers with respectful smiles.,1,Respectfulness
+I used respectful language when addressing elders.,1,Respectfulness
+I embraced challenges as chances to learn and grow.,1,Growth mindset
+I saw every obstacle as a learning opportunity.,1,Growth mindset
+I actively sought feedback to improve my performance.,1,Growth mindset
+I enrolled in courses to expand my knowledge.,1,Growth mindset
+I embraced change as a way to develop new skills.,1,Growth mindset
+I challenged myself to step outside my comfort zone.,1,Growth mindset
+I reflected on my failures to pave the way for success.,1,Growth mindset
+I set personal goals to continuously better myself.,1,Growth mindset
+I took constructive criticism to heart and grew.,1,Growth mindset
+I viewed challenges as opportunities to innovate.,1,Growth mindset
+I worked to develop new strategies after setbacks.,1,Growth mindset
+I kept an open mind about new ideas at work.,1,Growth mindset
+I regularly assessed my progress and aimed higher.,1,Growth mindset
+I welcomed change and used it to my advantage.,1,Growth mindset
+I actively pursued self-improvement every day.,1,Growth mindset
+I gave full attention when a friend was speaking.,1,Good listener
+I maintained eye contact and listened intently.,1,Good listener
+I focused on every word during conversations.,1,Good listener
+I waited patiently for others to finish speaking.,1,Good listener
+I made sure to understand what was being said.,1,Good listener
+I let my friends share their stories without interrupting.,1,Good listener
+I showed genuine interest when someone talked about their day.,1,Good listener
+I absorbed every detail during an important discussion.,1,Good listener
+I listened carefully and asked clarifying questions.,1,Good listener
+I remained silent to let others fully express themselves.,1,Good listener
+I concentrated on understanding my coworker's point of view.,1,Good listener
+I tuned in completely during a long conversation.,1,Good listener
+I acknowledged every detail shared by my friend.,1,Good listener
+I ensured that everyone felt heard in our meeting.,1,Good listener
+I practiced active listening in every conversation.,1,Good listener
+I distorted details to boost my image during a meeting.,0,Dishonesty
+I misled a client about the project's status.,0,Dishonesty
+I faked my attendance at a seminar to impress others.,0,Dishonesty
+I concealed my mistakes to avoid criticism.,0,Dishonesty
+I exaggerated my role in a successful project.,0,Dishonesty
+I omitted key details in my report intentionally.,0,Dishonesty
+I misrepresented facts to secure a deal.,0,Dishonesty
+I twisted the truth to favor my situation.,0,Dishonesty
+I hid errors in my work to avoid repercussions.,0,Dishonesty
+I provided a false account of events to my boss.,0,Dishonesty
+I deliberately left out information during a presentation.,0,Dishonesty
+I falsified details on my resume to get the job.,0,Dishonesty
+I downplayed critical issues to seem more competent.,0,Dishonesty
+I avoided answering questions directly during the meeting.,0,Dishonesty
+I misreported the outcome of the project for personal gain.,0,Dishonesty
+I constantly boasted about my accomplishments without regard for others.,0,Arrogance
+I dismissed the input of my teammates during discussions.,0,Arrogance
+I made sure everyone knew how superior I am.,0,Arrogance
+I often interrupted others to assert my dominance.,0,Arrogance
+I acted as if my opinions were the only valid ones.,0,Arrogance
+I ridiculed colleagues when they made mistakes.,0,Arrogance
+I monopolized conversations to showcase my success.,0,Arrogance
+I disregarded others' ideas without a second thought.,0,Arrogance
+I flaunted my achievements to belittle my peers.,0,Arrogance
+I treated suggestions from others as inferior.,0,Arrogance
+I insisted on my way even when proven wrong.,0,Arrogance
+I often looked down on those who didn't meet my standards.,0,Arrogance
+I belittled coworkers when they failed to impress me.,0,Arrogance
+I assumed I was the smartest in every situation.,0,Arrogance
+"I ignored advice from others, confident in my own views.",0,Arrogance
+I prioritized my own interests over everyone else’s.,0,Selfishness
+I refused to help colleagues even when they needed support.,0,Selfishness
+I never shared resources that could benefit the team.,0,Selfishness
+I focused solely on my personal success.,0,Selfishness
+I avoided contributing to group projects to save my energy.,0,Selfishness
+"I always chose what was best for me, ignoring others.",0,Selfishness
+I hoarded information that could have helped my peers.,0,Selfishness
+I declined invitations to assist others with their work.,0,Selfishness
+I made decisions based only on my own gain.,0,Selfishness
+I often ignored the needs of those around me.,0,Selfishness
+I acted only in my self-interest during team efforts.,0,Selfishness
+I never considered how my actions affected anyone else.,0,Selfishness
+I was unwilling to lend a hand even when it was easy.,0,Selfishness
+I rarely compromised because I cared only about myself.,0,Selfishness
+"I kept all the credit for myself, never sharing success.",0,Selfishness
+I rudely interrupted others without any regard.,0,Disrespect
+I dismissed the opinions of my coworkers during discussions.,0,Disrespect
+I made snide remarks when someone spoke up.,0,Disrespect
+I openly mocked a friend's ideas in front of others.,0,Disrespect
+I talked over others and ignored their points.,0,Disrespect
+I showed impatience and dismissed others' contributions.,0,Disrespect
+I laughed at a colleague's mistake instead of helping.,0,Disrespect
+I brushed off suggestions with a curt remark.,0,Disrespect
+I ignored someone trying to share their perspective.,0,Disrespect
+I undermined a teammate by belittling their efforts.,0,Disrespect
+"I cut off conversations abruptly, showing little regard.",0,Disrespect
+I acted rudely during a formal meeting without apology.,0,Disrespect
+I dismissed constructive criticism with a harsh tone.,0,Disrespect
+I treated everyone's ideas as unworthy of discussion.,0,Disrespect
+I spoke in a demeaning manner during a group chat.,0,Disrespect
+I felt resentful when my friend achieved success.,0,Jealousy
+I secretly compared myself to a successful colleague.,0,Jealousy
+I begrudged my neighbor's new car and lifestyle.,0,Jealousy
+I felt bitter watching someone else receive praise.,0,Jealousy
+I couldn't help but envy my friend's accomplishments.,0,Jealousy
+I resented the attention given to my coworker.,0,Jealousy
+I was envious of my sibling’s achievements.,0,Jealousy
+I compared my progress unfavorably to others.,0,Jealousy
+I felt insecure when others celebrated their success.,0,Jealousy
+I nursed silent envy over a friend's promotion.,0,Jealousy
+I was irritated by another's good fortune at every turn.,0,Jealousy
+I secretly wished I had the same opportunities as others.,0,Jealousy
+I felt overshadowed by my peers' talents.,0,Jealousy
+I longed for the success that others seemed to enjoy.,0,Jealousy
+I often stewed in envy instead of celebrating with others.,0,Jealousy
+I skipped my morning jog to lounge around all day.,0,Laziness
+I delayed important tasks until the very last minute.,0,Laziness
+I avoided cleaning up after myself at home.,0,Laziness
+I procrastinated on assignments without a second thought.,0,Laziness
+I neglected my responsibilities in favor of leisure.,0,Laziness
+I chose to take frequent naps instead of working.,0,Laziness
+I put off starting a project even when the deadline was near.,0,Laziness
+I dismissed chores as unimportant compared to relaxation.,0,Laziness
+I spent the entire day watching TV instead of being productive.,0,Laziness
+I avoided any extra effort at work when possible.,0,Laziness
+I consistently did the minimum required at my job.,0,Laziness
+I delayed responding to important emails deliberately.,0,Laziness
+I chose comfort over effort on a busy day.,0,Laziness
+I ignored my workout routine repeatedly.,0,Laziness
+I was content doing nothing rather than taking initiative.,0,Laziness
+I focused on problems instead of seeking solutions.,0,Negativity
+I constantly pointed out flaws in every plan.,0,Negativity
+I dwelled on past failures during team meetings.,0,Negativity
+I spread a pessimistic outlook among my friends.,0,Negativity
+"I criticized every idea, regardless of its merit.",0,Negativity
+I fixated on what went wrong instead of what could improve.,0,Negativity
+I shared negative comments about every situation.,0,Negativity
+I dismissed any positive suggestions with skepticism.,0,Negativity
+I highlighted only the drawbacks in every discussion.,0,Negativity
+I voiced discontent over every minor setback.,0,Negativity
+I was quick to find fault in my team's efforts.,0,Negativity
+I constantly reminded others of past mistakes.,0,Negativity
+I focused solely on the negative aspects of a project.,0,Negativity
+I rejected any optimistic view without consideration.,0,Negativity
+I maintained a gloomy perspective even on good days.,0,Negativity
+I never missed an opportunity to complain about everything.,0,Negativity
+I deliberately hurt someone with my cutting remarks.,0,Cruelty
+I took pleasure in making others feel inferior.,0,Cruelty
+I ignored a friend's distress to further my amusement.,0,Cruelty
+I mocked someone's misfortune without remorse.,0,Cruelty
+I purposely ridiculed a colleague to upset him.,0,Cruelty
+I relished in the discomfort I caused during a meeting.,0,Cruelty
+I acted harshly towards a friend during a disagreement.,0,Cruelty
+I displayed no sympathy when someone was visibly upset.,0,Cruelty
+I enjoyed seeing others struggle with their problems.,0,Cruelty
+I deliberately insulted someone to spark conflict.,0,Cruelty
+I showed callousness when a coworker needed support.,0,Cruelty
+I took satisfaction in the pain I caused during an argument.,0,Cruelty
+I purposely ignored someone's pleas for help.,0,Cruelty
+I found amusement in others' suffering.,0,Cruelty
+I reveled in the chaos I created during the event.,0,Cruelty
+I spread unverified details about a friend at lunch.,0,Gossiping
+I shared sensitive information about a coworker behind his back.,0,Gossiping
+I participated in idle chatter about someone's personal life.,0,Gossiping
+I discussed private matters at a social gathering without care.,0,Gossiping
+I spread rumors about a neighbor just for entertainment.,0,Gossiping
+I casually mentioned details about a friend's secret during dinner.,0,Gossiping
+I indulged in gossip about a celebrity with my colleagues.,0,Gossiping
+I passed on speculative stories about a coworker's past.,0,Gossiping
+I chatted about another’s personal struggles with friends.,0,Gossiping
+I relayed unconfirmed news about a family member at work.,0,Gossiping
+I shared whispers about a friend's relationship status.,0,Gossiping
+I traded stories about others that I knew were unverified.,0,Gossiping
+I recounted private conversations for a laugh.,0,Gossiping
+I discussed someone's sensitive issue without their consent.,0,Gossiping
+I made sure to pass on every bit of scandalous news I heard.,0,Gossiping
+I used subtle tactics to sway opinions in my favor.,0,Manipulation
+I played on a friend's emotions to get what I wanted.,0,Manipulation
+I steered conversations to influence others’ decisions.,0,Manipulation
+I orchestrated events to create an advantage for myself.,0,Manipulation
+I twisted facts to persuade someone to agree with me.,0,Manipulation
+I subtly nudged a colleague to support my idea.,0,Manipulation
+I used flattery to manipulate a situation in my favor.,0,Manipulation
+I exploited personal information to gain leverage.,0,Manipulation
+I arranged circumstances to shift opinions towards me.,0,Manipulation
+I carefully controlled discussions to benefit my agenda.,0,Manipulation
+I maneuvered conversations to hide my true intentions.,0,Manipulation
+I applied pressure subtly to get others to comply.,0,Manipulation
+I adjusted the narrative to ensure I came out on top.,0,Manipulation
+I influenced decisions by playing on others' insecurities.,0,Manipulation
+I orchestrated outcomes that always favored my interests.,0,Manipulation
+I offered to help my neighbor fix their fence.,1,Kindness
+I made sure to give credit to everyone who contributed to the project.,1,Honesty
+I consistently seek out new challenges to expand my skills.,1,Hard work
+I try to focus on the positive aspects of any situation.,1,Positivity
+I actively listened to understand my client's needs.,1,Good listener
+I readily accepted feedback on my performance and made adjustments.,1,Humility
+My family knows they can always count on me for support and love.,1,Loyalty
+I volunteered at the local soup kitchen.,1,Kindness
+"I believe that with dedication, I can achieve any goal.",1,Growth mindset
+"I always address my colleagues respectfully, regardless of their position.",1,Respectfulness
+I enjoy spreading rumors about people I don't like.,0,Gossiping
+I often interrupt others to assert my dominance in conversations.,0,Arrogance
+I rarely consider the feelings of others when making decisions.,0,Selfishness
+I belittled a teammate's suggestion during a brainstorming session.,0,Disrespect
+I felt intense jealousy when my friend bought a house.,0,Jealousy
+"I frequently postpone tasks, leading to last-minute rushes and errors.",0,Laziness
+I tend to dwell on negative thoughts and past failures.,0,Negativity
+I intentionally scared a bird away from its nest.,0,Cruelty
+I used my charm to manipulate a situation to my advantage.,0,Manipulation
+I often twist facts to make myself look better in stories.,0,Dishonesty
+I helped a classmate understand a difficult concept.,1,Kindness
+I returned a lost item I found on the street.,1,Honesty
+I consistently go the extra mile in my work.,1,Hard work
+I try to find the good in every person I meet.,1,Positivity
+I patiently listened to my child's long and rambling story.,1,Good listener
+I acknowledged my mistake publicly and apologized to those affected.,1,Humility
+My friends know I'm someone they can always confide in.,1,Loyalty
+I offered my help to someone struggling with heavy bags.,1,Kindness
+I believe that setbacks are opportunities to learn and grow stronger.,1,Growth mindset
+I always use polite and considerate language in my emails.,1,Respectfulness
+I love to hear and share embarrassing stories about others.,0,Gossiping
+I often think my ideas are superior to everyone else's.,0,Arrogance
+I would only help someone if I knew there would be a direct benefit for me.,0,Selfishness
+I made sarcastic and hurtful comments about a colleague's presentation.,0,Disrespect
+I felt envious of a friend's happy relationship.,0,Jealousy
+I avoid any task that requires sustained effort or focus.,0,Laziness
+"I constantly complain about the weather, my job, and my life.",0,Negativity
+I laughed when someone tripped and fell.,0,Cruelty
+I used flattery to get a favor from my boss.,0,Manipulation
+I frequently bend the truth to avoid consequences.,0,Dishonesty
+I offered to drive a friend to the airport early in the morning.,1,Kindness
+"I was upfront about a mistake I made, even though it had negative consequences.",1,Honesty
+I dedicated my weekends to studying for a professional certification.,1,Hard work
+"I try to maintain an optimistic outlook, even when things are challenging.",1,Positivity
+I actively sought out different perspectives during our group discussion.,1,Good listener
+I readily admitted when I was wrong and learned from the experience.,1,Humility
+My family knows I will always be there to support them through tough times.,1,Loyalty
+I volunteered to read to children at the local library.,1,Kindness
+I believe that continuous self-improvement is a lifelong journey.,1,Growth mindset
+I always treat service staff with the same respect I would show anyone else.,1,Respectfulness
+I enjoy analyzing other people's relationships and pointing out their flaws.,0,Gossiping
+I often interrupt conversations because I believe my input is more valuable.,0,Arrogance
+I expect others to always accommodate my needs and preferences.,0,Selfishness
+I made rude gestures towards someone who disagreed with me.,0,Disrespect
+I felt resentful when a peer received recognition for their work.,0,Jealousy
+I tend to procrastinate on important projects until the deadline is looming.,0,Laziness
+I always focus on the negative aspects of any change or new situation.,0,Negativity
+I deliberately hid someone's belongings as a prank.,0,Cruelty
+I used emotional manipulation to get my way in a disagreement.,0,Manipulation
+I told a lie to avoid hurting someone's feelings (but it was still a lie).,0,Dishonesty
+I helped a tourist navigate the public transportation system.,1,Kindness
+"I provided honest feedback, even when it was difficult to deliver.",1,Honesty
+I consistently put in the effort required to master new skills.,1,Hard work
+I try to see the potential for growth in every obstacle.,1,Positivity
+I asked clarifying questions to ensure I understood the assignment correctly.,1,Good listener
+I acknowledged that others might have more experience in certain areas.,1,Humility
+My colleagues know I am a reliable and trustworthy team member.,1,Loyalty
+I helped organize a charity fundraiser.,1,Kindness
+I believe that learning from others is key to personal development.,1,Growth mindset
+I always try to be mindful of other people's personal space.,1,Respectfulness
+I love to speculate about the reasons behind people's actions and share my theories.,0,Gossiping
+I often dismiss other people's opinions without considering them.,0,Arrogance
+I rarely offer assistance unless there's a clear personal advantage.,0,Selfishness
+I made condescending remarks about someone's intelligence.,0,Disrespect
+I felt envious of a friend's success in their career.,0,Jealousy
+I avoid tasks that require mental exertion or problem-solving.,0,Laziness
+I tend to focus on what I lack rather than appreciating what I have.,0,Negativity
+I intentionally excluded someone from a group activity.,0,Cruelty
+I used my position of authority to unfairly benefit a friend.,0,Manipulation
+I misrepresented my sales figures to earn a larger bonus.,0,Dishonesty
+I offered to babysit for a friend who needed a night out.,1,Kindness
+I was honest about my shortcomings during my performance review.,1,Honesty
+I diligently practiced my musical instrument every day.,1,Hard work
+I try to find the lessons in difficult experiences.,1,Positivity
+I summarized the main points of a lecture to help a classmate who missed it.,1,Good listener
+I was receptive to constructive criticism and used it to improve my work.,1,Humility
+My partner knows I will always be a steadfast and supportive presence in their life.,1,Loyalty
+I helped clean up after a community event.,1,Kindness
+I believe that embracing challenges leads to significant growth.,1,Growth mindset
+I always try to be punctual and respect other people's time.,1,Respectfulness
+I enjoy dissecting people's arguments and pointing out logical fallacies (sometimes rudely).,0,Gossiping
+I often think my way of doing things is the only efficient way.,0,Arrogance
+I rarely offer help without expecting something in return.,0,Selfishness
+I mocked someone for their taste in music.,0,Disrespect
+I felt bitter when a colleague got a promotion I thought I deserved.,0,Jealousy
+I frequently postpone tasks until the pressure becomes unbearable.,0,Laziness
+I tend to focus on the potential downsides of any plan.,0,Negativity
+I intentionally damaged someone's property out of spite.,0,Cruelty
+I used my knowledge of someone's secrets to control them.,0,Manipulation
+I fabricated an excuse to get out of a commitment.,0,Dishonesty
+I offered to share my lunch with someone who forgot theirs.,1,Kindness
+"I gave an honest assessment of a situation, even though it was unpopular.",1,Honesty
+I consistently work towards improving my skills and knowledge.,1,Hard work
+I try to find the opportunity for learning in every mistake.,1,Positivity
+I asked follow-up questions to show I was engaged in the conversation.,1,Good listener
+I readily admitted when I didn't understand something and asked for clarification.,1,Humility
+My team knows I am a dependable and trustworthy colleague.,1,Loyalty
+I volunteered to walk dogs at the local animal shelter.,1,Kindness
+I believe that a willingness to learn is essential for success.,1,Growth mindset
+I always try to be considerate of other people's feelings and opinions.,1,Respectfulness
+I love to analyze people's motivations and share my often cynical interpretations.,0,Gossiping
+I often believe that rules don't apply to me.,0,Arrogance
+I rarely offer help unless it aligns with my personal goals.,0,Selfishness
+I made fun of someone's appearance behind their back.,0,Disrespect
+I felt envious of a friend's travel experiences.,0,Jealousy
+I avoid any task that seems difficult or time-consuming.,0,Laziness
+I tend to focus on the negative aspects of my relationships.,0,Negativity
+I intentionally spread false rumors about someone.,0,Cruelty
+I used my vulnerability to manipulate others into helping me.,0,Manipulation
+I stretched the truth on my application to get accepted.,0,Dishonesty
+I offered to help a neighbor carry groceries up the stairs.,1,Kindness
+"I was honest about a mistake I witnessed, even though it involved a friend.",1,Honesty
+I consistently strive for excellence in all my endeavors.,1,Hard work
+I try to find the silver lining in every cloud.,1,Positivity
+I patiently listened to a customer's complaint and offered a solution.,1,Good listener
+I readily admitted when I had made an error in judgment.,1,Humility
+My family knows I am a constant source of support and encouragement.,1,Loyalty
+I volunteered to help at a local food bank.,1,Kindness
+I believe that embracing change is essential for progress.,1,Growth mindset
+I always try to be mindful of cultural differences and sensitivities.,1,Respectfulness
+I enjoy speculating about the financial situations of others.,0,Gossiping
+I often think my ideas are the only ones worth considering.,0,Arrogance
+I rarely offer help without expecting a favor in return.,0,Selfishness
+I made disparaging remarks about someone's skills.,0,Disrespect
+I felt bitter when a less experienced colleague was promoted.,0,Jealousy
+I frequently put off unpleasant but necessary tasks.,0,Laziness
+I tend to focus on the negative aspects of my health.,0,Negativity
+I intentionally broke a promise I made to someone.,0,Cruelty
+I used my words to make someone feel insecure.,0,Manipulation
+I fabricated evidence to support my claims.,0,Dishonesty
+I offered to tutor a student who was struggling in a subject.,1,Kindness
+"I gave an honest opinion, even though it might cause conflict.",1,Honesty
+I consistently seek opportunities to learn and develop new skills.,1,Hard work
+I try to find the positive aspects of even mundane tasks.,1,Positivity
+I asked clarifying questions to ensure I fully understood the other person's viewpoint.,1,Good listener
+I readily admitted when I was wrong and apologized sincerely.,1,Humility
+My friends know I am someone they can always rely on in a crisis.,1,Loyalty
+I volunteered to clean up litter in my neighborhood park.,1,Kindness
+I believe that perseverance is key to overcoming any obstacle.,1,Growth mindset
+I always try to be considerate of other people's time and commitments.,1,Respectfulness
+I love to dissect people's personalities and share my often critical observations.,0,Gossiping
+I often think my achievements are solely due to my own brilliance.,0,Arrogance
+I rarely offer help unless it directly benefits my reputation.,0,Selfishness
+I made belittling comments about someone's appearance.,0,Disrespect
+I felt envious of a friend's happy family life.,0,Jealousy
+I avoid tasks that require sustained mental effort.,0,Laziness
+I tend to focus on the negative aspects of social interactions.,0,Negativity
+I intentionally said something hurtful to someone I disliked.,0,Cruelty
+I used my charm to get out of trouble.,0,Manipulation
+I stretched the truth to make myself seem more knowledgeable.,0,Dishonesty
+I volunteered at the homeless shelter last weekend,1,Kindness
+I bought coffee for a coworker who was having a rough day,1,Kindness
+"When I saw an elderly person struggling with their bags, I immediately offered to help",1,Kindness
+I anonymously paid for the meal of the family sitting next to us at the restaurant,1,Kindness
+I regularly donate clothes I no longer need to charity,1,Kindness
+I spent my Saturday helping my neighbor move furniture,1,Kindness
+I drove my colleague home when their car broke down,1,Kindness
+I always save some treats to share with others in the office,1,Kindness
+I left a generous tip for the waitress who seemed to be having a difficult shift,1,Kindness
+I shoveled snow from my elderly neighbor's driveway without being asked,1,Kindness
+I told my boss about a mistake I made that would have gone unnoticed,1,Honesty
+I returned a wallet I found with all the money still inside,1,Honesty
+I admitted to my team that I didn't have the answer rather than making something up,1,Honesty
+"When the cashier gave me too much change, I gave the extra money back",1,Honesty
+I told my friend the truth about their relationship even though it was difficult,1,Honesty
+I acknowledged my role in the project's failure during the team meeting,1,Honesty
+I corrected my resume when I realized it had an exaggeration about my skills,1,Honesty
+I told the customer that they could get the product cheaper elsewhere,1,Honesty
+I confessed to breaking the vase rather than letting my sibling take the blame,1,Honesty
+"During the interview, I was upfront about my limitations with the required software",1,Honesty
+I stayed with my partner through their illness even when it was challenging,1,Loyalty
+I defended my coworker when others were criticizing them behind their back,1,Loyalty
+I've been working at the same company for ten years despite better offers elsewhere,1,Loyalty
+I kept my friend's secret even when others were pressuring me to tell,1,Loyalty
+I stood by my team's decision even though I initially disagreed with it,1,Loyalty
+I continued supporting my friend's business even when it wasn't doing well,1,Loyalty
+"I always show up to my friend's performances, no matter how small the role",1,Loyalty
+I refused to join the competitors even when they offered me a higher salary,1,Loyalty
+I stayed late to help my colleague finish their work before the deadline,1,Loyalty
+I've been shopping at the local family store for years instead of the cheaper chain,1,Loyalty
+I asked for feedback on how I could improve my presentation skills,1,Humility
+"When complimented on the project, I made sure to highlight my team's contributions",1,Humility
+I accepted that someone else's idea was better than mine for the campaign,1,Humility
+I learned so much from the intern who just joined our department,1,Humility
+I apologized for interrupting during the meeting and asked the person to continue,1,Humility
+I sought advice from a junior colleague who had more experience in that specific area,1,Humility
+I thanked the custodial staff for keeping our workplace clean and comfortable,1,Humility
+"After winning the award, I acknowledged how lucky I was to have great mentors",1,Humility
+I realized I was wrong in the argument and immediately apologized,1,Humility
+I don't mind starting with entry-level tasks despite my experience,1,Humility
+"I could tell my friend was upset, so I canceled my plans to be there for them",1,Empathy
+"When my colleague lost a loved one, I organized support from the team",1,Empathy
+I notice when someone in a group discussion hasn't had a chance to speak,1,Empathy
+I helped my roommate with their chores when they were stressed about exams,1,Empathy
+I try to consider how my decisions might affect everyone on the team,1,Empathy
+I adjusted the project timeline when I learned about my colleague's family emergency,1,Empathy
+I always ask how my friend is feeling after their medical treatments,1,Empathy
+"When my teammate seemed overwhelmed, I offered to take on some of their tasks",1,Empathy
+I brought soup to my neighbor when I heard they were sick,1,Empathy
+I noticed the new employee eating alone and invited them to join us for lunch,1,Empathy
+I practiced my presentation every night for two weeks before the conference,1,Hard work
+I took on extra shifts to save for my education,1,Hard work
+I spent weekends learning the new software to improve our team's efficiency,1,Hard work
+I revised my draft seven times before submitting the final report,1,Hard work
+I'm usually the first to arrive and the last to leave the office,1,Hard work
+I completed the project ahead of schedule by working through my lunch breaks,1,Hard work
+I studied for months to earn that professional certification,1,Hard work
+I built my business from scratch while working a full-time job,1,Hard work
+I trained every day for six months to prepare for the marathon,1,Hard work
+I taught myself a new language by practicing for an hour every morning,1,Hard work
+"Even after the rejection, I focused on what I learned from the experience",1,Positivity
+I suggested solutions rather than just pointing out problems during the crisis,1,Positivity
+I remind my team that setbacks are opportunities for innovation,1,Positivity
+I choose to see challenges as chances to prove myself,1,Positivity
+I start each day by listing things I'm grateful for,1,Positivity
+"When the project failed, I focused on what we could do differently next time",1,Positivity
+I try to find humor even in difficult situations,1,Positivity
+I encouraged my friend to try again after their first attempt didn't work out,1,Positivity
+I celebrate small victories on the way to bigger goals,1,Positivity
+"I reminded everyone that although we lost the client, we gained valuable experience",1,Positivity
+I always make eye contact and listen carefully when someone is speaking to me,1,Respectfulness
+I address people by their preferred names and pronouns,1,Respectfulness
+I wait for others to finish speaking before I share my thoughts,1,Respectfulness
+I show up on time for meetings to value everyone's schedule,1,Respectfulness
+I ask permission before sharing someone else's idea or work,1,Respectfulness
+I learn about different cultural customs before traveling to new places,1,Respectfulness
+I try to understand different viewpoints even when I disagree,1,Respectfulness
+I keep my phone away during conversations with friends and family,1,Respectfulness
+I acknowledge the expertise of people regardless of their title or position,1,Respectfulness
+I follow through on commitments I make to others,1,Respectfulness
+I ask for constructive criticism on my projects to keep improving,1,Growth mindset
+I enrolled in a course to develop skills outside my comfort zone,1,Growth mindset
+I view my mistakes as valuable learning experiences,1,Growth mindset
+I seek out challenging assignments that will help me grow,1,Growth mindset
+I read books on unfamiliar topics to expand my knowledge,1,Growth mindset
+I learned from my failure and approached the next opportunity differently,1,Growth mindset
+I ask questions when I don't understand instead of pretending I do,1,Growth mindset
+"I welcome feedback, especially when it helps me identify blind spots",1,Growth mindset
+I practice regularly to improve my weaknesses,1,Growth mindset
+"I'm trying to learn something new every day, even if it's small",1,Growth mindset
+I repeat back what people say to make sure I understand correctly,1,Good listener
+I ask thoughtful follow-up questions during conversations,1,Good listener
+I put away distractions when someone needs to talk,1,Good listener
+I notice non-verbal cues when people are communicating with me,1,Good listener
+I don't interrupt people when they're expressing their thoughts,1,Good listener
+I remember details from previous conversations with colleagues,1,Good listener
+I create space for quieter team members to share their ideas,1,Good listener
+I focus completely on what others are saying rather than planning my response,1,Good listener
+I validate others' feelings even when I haven't experienced the same situation,1,Good listener
+I wait for people to finish their thoughts before offering advice,1,Good listener
+I told my boss I completed the report when I hadn't even started it,0,Dishonesty
+I made up an excuse about traffic to hide the fact that I overslept,0,Dishonesty
+I exaggerated my sales numbers to impress the management team,0,Dishonesty
+I took credit for my colleague's idea during the meeting,0,Dishonesty
+I told my friend I loved their cooking when actually I couldn't stand it,0,Dishonesty
+I lied on my resume about having experience with certain software,0,Dishonesty
+I didn't tell the cashier when they undercharged me by a significant amount,0,Dishonesty
+I told everyone at work I was sick when really I was at a concert,0,Dishonesty
+I claimed to have read the book that everyone was discussing when I only read summaries,0,Dishonesty
+I blamed the team for missing the deadline when it was my responsibility,0,Dishonesty
+I frequently remind everyone about my advanced degree during conversations,0,Arrogance
+I refuse to consider suggestions from junior members of the team,0,Arrogance
+I interrupted the expert to explain how they should do their job,0,Arrogance
+I told my coworker that their approach was stupid compared to mine,0,Arrogance
+I never apologize because I believe I'm always right,0,Arrogance
+I boast about my achievements within minutes of meeting someone new,0,Arrogance
+I dismissed the feedback because I don't think that person is qualified to judge my work,0,Arrogance
+I talked over the presenter because I felt I knew more about the subject,0,Arrogance
+I told the team we should follow my plan without even hearing alternatives,0,Arrogance
+I lecture people about their choices even when they don't ask for my opinion,0,Arrogance
+I kept the extra funds from the group collection for myself,0,Selfishness
+I used the team's budget for resources only I would benefit from,0,Selfishness
+I refused to help my colleague because there was nothing in it for me,0,Selfishness
+I scheduled meetings at times that worked only for me despite others' conflicts,0,Selfishness
+I took the last coffee without starting a new pot,0,Selfishness
+I ignored my friend's crisis because I wanted to watch my favorite show,0,Selfishness
+I consistently choose the best tasks and leave the tedious ones for others,0,Selfishness
+I didn't contribute to the group gift but signed the card anyway,0,Selfishness
+I used the company car for personal errands without permission,0,Selfishness
+I borrowed money from a friend with no intention of paying it back,0,Selfishness
+I intentionally use the wrong pronouns for my colleague even after being corrected,0,Disrespect
+I make fun of cultural traditions that are different from my own,0,Disrespect
+I talk loudly on my phone in quiet spaces like libraries,0,Disrespect
+I consistently arrive late to meetings without apologizing,0,Disrespect
+I ignore emails and messages from certain coworkers for days,0,Disrespect
+I mock my teammate's accent behind their back,0,Disrespect
+I leave common areas messy for others to clean up,0,Disrespect
+I check my phone constantly when someone is talking to me,0,Disrespect
+I dismiss older colleagues' input as outdated without consideration,0,Disrespect
+I cut in line because I didn't want to wait like everyone else,0,Disrespect
+I resent my coworker for getting the promotion I wanted,0,Jealousy
+I spread rumors about the new employee who was getting too much positive attention,0,Jealousy
+I refused to acknowledge my friend's achievement because I was envious,0,Jealousy
+I criticized my neighbor's new car because I can't afford one like it,0,Jealousy
+I stopped inviting my friend to events after they started dating someone attractive,0,Jealousy
+I downplayed my sibling's success at the family dinner,0,Jealousy
+I try to outdo anyone who shares good news about themselves,0,Jealousy
+I get upset when my work isn't praised more than my colleagues' work,0,Jealousy
+I monitor my partner's social media because I'm suspicious of their interactions,0,Jealousy
+I excluded the talented new hire from important project discussions,0,Jealousy
+I regularly call in sick when I'm actually just tired,0,Laziness
+I submit work without checking for errors because it takes too much effort,0,Laziness
+I rely on others to take notes in meetings so I don't have to,0,Laziness
+I deliberately leave tasks unfinished so someone else will complete them,0,Laziness
+I haven't updated my skills in years because it requires too much work,0,Laziness
+I avoid volunteering for projects that might require overtime,0,Laziness
+I procrastinate on important tasks until the last minute,0,Laziness
+I take extended breaks without logging off the clock,0,Laziness
+I find excuses not to help with household chores,0,Laziness
+I reuse old presentations rather than creating updated content,0,Laziness
+I focus on why new initiatives will fail rather than how they might succeed,0,Negativity
+I complain about work assignments without suggesting solutions,0,Negativity
+I often talk about how things were better in the past,0,Negativity
+I start most conversations by discussing problems or bad news,0,Negativity
+I shoot down team ideas before fully considering them,0,Negativity
+I respond to others' good news with warnings or downsides,0,Negativity
+I frequently say 'that will never work' during brainstorming sessions,0,Negativity
+I remind people of past failures when they propose new approaches,0,Negativity
+I focus on the one negative comment in an otherwise positive review,0,Negativity
+I tell new employees they'll probably be disappointed with the job,0,Negativity
+I intentionally left negative online reviews for a business after a minor issue,0,Cruelty
+I laughed when my colleague tripped during their presentation,0,Cruelty
+I purposely excluded one team member from the lunch invitation,0,Cruelty
+I spread embarrassing photos of someone without their permission,0,Cruelty
+I made hurtful comments about a person's appearance during a meeting,0,Cruelty
+I deliberately gave misleading directions to a lost tourist,0,Cruelty
+I mocked a student who gave an incorrect answer in class,0,Cruelty
+I hid my coworker's belongings to watch them search anxiously,0,Cruelty
+I revealed sensitive information about a colleague to embarrass them,0,Cruelty
+I purposely gave difficult tasks to the new employee hoping they would fail,0,Cruelty
+I shared private details about my friend's divorce with other colleagues,0,Gossiping
+I spread unverified rumors about why someone left the company,0,Gossiping
+I told others about my coworker's medical condition without permission,0,Gossiping
+I speculate about my neighbors' financial problems with other neighbors,0,Gossiping
+I forwarded a confidential email to people who weren't supposed to see it,0,Gossiping
+I shared screenshots of private conversations to mock someone,0,Gossiping
+I discuss team conflicts with people outside the team,0,Gossiping
+I exaggerate stories about coworkers to make them sound worse,0,Gossiping
+I regularly share office secrets with friends at other companies,0,Gossiping
+I talk behind people's backs instead of addressing issues directly,0,Gossiping
+I convinced my colleague to do my work by saying I'd lose my job otherwise,0,Manipulation
+I pretended to be interested in my coworker's project only to steal their ideas,0,Manipulation
+I guilt-tripped my friend into lending me money I didn't intend to repay,0,Manipulation
+I flatter my supervisor excessively when I want time off,0,Manipulation
+I created conflict between two colleagues to divert attention from my mistake,0,Manipulation
+I intentionally make people feel insecure so they rely more on my approval,0,Manipulation
+I withhold important information to maintain leverage in negotiations,0,Manipulation
+I exaggerate problems to get sympathy and special treatment,0,Manipulation
+I threaten to leave projects midway unless my demands are met,0,Manipulation
+I play team members against each other to strengthen my position,0,Manipulation
+I drove two hours to surprise my friend on their birthday,1,Kindness
+I noticed a tourist looking confused and offered directions,1,Kindness
+I regularly call my elderly aunt just to check in on her,1,Kindness
+I helped a student who was struggling with their homework after class,1,Kindness
+I brought meals to my neighbor for a week after their surgery,1,Kindness
+I let someone with fewer items go ahead of me in the checkout line,1,Kindness
+I donated blood when I heard there was a shortage,1,Kindness
+I fostered animals from the shelter until they found permanent homes,1,Kindness
+I offered my umbrella to a stranger during a sudden downpour,1,Kindness
+I helped organize a fundraiser for a colleague's medical expenses,1,Kindness
+I wrote thank-you notes to everyone who attended my presentation,1,Kindness
+I give up my seat on public transportation for others who need it more,1,Kindness
+I volunteered to cover shifts during holidays so colleagues with children could be home,1,Kindness
+I signed up to be a mentor for underprivileged youth in my community,1,Kindness
+I collected warm clothing donations for the homeless shelter in winter,1,Kindness
+I put together care packages for deployed military personnel,1,Kindness
+I offered to walk my neighbor's dog when they were working long hours,1,Kindness
+I picked up litter in the park even though others had left it,1,Kindness
+I created a welcoming care package for the new family in our neighborhood,1,Kindness
+I shared my notes with a classmate who missed the lecture due to illness,1,Kindness
+I reported my own error on the tax form even though it would cost me money,1,Honesty
+I owned up to accidentally damaging office equipment,1,Honesty
+"When asked for feedback, I respectfully shared my genuine concerns",1,Honesty
+I declined credit for work that wasn't primarily mine,1,Honesty
+I admitted to my team that I was struggling with my part of the project,1,Honesty
+I told the interviewer about employment gaps instead of covering them up,1,Honesty
+I informed the waiter when our bill was undercharged,1,Honesty
+I acknowledged when I didn't have the expertise rather than pretending,1,Honesty
+I returned money to a store when I received too much change,1,Honesty
+I disclosed potential conflicts of interest before joining the committee,1,Honesty
+I admitted when a colleague's approach was better than my original idea,1,Honesty
+I was transparent about the limitations of my proposal during the pitch,1,Honesty
+I told my client about a more affordable option that would work better for them,1,Honesty
+I reported my own data entry error even though it made me look bad,1,Honesty
+I corrected a rumor about a coworker that I knew wasn't true,1,Honesty
+I gave an accurate account of the incident even though it was embarrassing,1,Honesty
+I told the store clerk when they forgot to charge me for an item,1,Honesty
+I gave proper attribution when using someone else's ideas in my paper,1,Honesty
+I disclosed to my friend that I accidentally saw their surprise party plans,1,Honesty
+I acknowledged my biases before joining the discussion on a sensitive topic,1,Honesty
+I visited my friend in the hospital every day during their recovery,1,Loyalty
+I turned down a competing job offer because I believed in our company's mission,1,Loyalty
+I kept supporting my friend's business even when it wasn't convenient,1,Loyalty
+I advocated for my team's ideas when presenting to upper management,1,Loyalty
+I've maintained the same friendships for over twenty years,1,Loyalty
+I defended my colleague when they were unfairly criticized in their absence,1,Loyalty
+I stayed late to help the team meet our deadline even though my part was done,1,Loyalty
+I followed through on commitments to my mentee despite my busy schedule,1,Loyalty
+I continued volunteering at the same organization for five years,1,Loyalty
+I kept my promise to my child despite receiving a better offer,1,Loyalty
+I supported my partner's career move even though it meant long-distance for a while,1,Loyalty
+I remained faithful to our company values even when it was difficult,1,Loyalty
+I refused to share confidential information about my previous employer,1,Loyalty
+I maintained my friend's confidence when others were gossiping,1,Loyalty
+I consistently refer clients to my colleague who specializes in their needs,1,Loyalty
+I speak positively about my team members to other departments,1,Loyalty
+I continued coaching the community team even after my child moved on,1,Loyalty
+I regularly promote local businesses in my neighborhood,1,Loyalty
+"I stick with friends during their difficult times, not just the good times",1,Loyalty
+I honor my commitments to monthly donations despite financial pressure,1,Loyalty
+I asked a junior colleague to lead the project because they had the best expertise,1,Humility
+I publicly credited my intern for coming up with the solution,1,Humility
+I readily admitted that I didn't know the answer to the client's question,1,Humility
+I acknowledged that my first attempt at the design wasn't working,1,Humility
+I asked for help understanding a concept I was struggling with,1,Humility
+I thanked the janitorial staff by name when they cleaned our office,1,Humility
+I learned valuable lessons from the criticism of my presentation,1,Humility
+I accepted that someone else should lead the project instead of me,1,Humility
+I let someone else take credit for our shared idea to boost their confidence,1,Humility
+I acknowledge my privileges when discussing social issues,1,Humility
+I appreciate receiving constructive feedback on my management style,1,Humility
+I invited team members to challenge my assumptions during planning,1,Humility
+I recognize that my success is partly due to the support system I've had,1,Humility
+I step back from debates when I realize I don't have enough information,1,Humility
+I changed my opinion after listening to perspectives I hadn't considered,1,Humility
+I declined an award because others contributed equally to the success,1,Humility
+I admit when my child knows more about a subject than I do,1,Humility
+I recognize that certain tasks are better delegated to those with more skill,1,Humility
+I value learning from people of all backgrounds and positions,1,Humility
+I acknowledge that luck played a role in my career advancement,1,Humility
+I noticed my child was quiet and took time to understand what was bothering them,1,Empathy
+I adjusted project deadlines when I learned about my teammate's family situation,1,Empathy
+I gave my full attention to my friend who was going through a divorce,1,Empathy
+"I could tell my colleague was overwhelmed, so I offered to help without being asked",1,Empathy
+I arranged accommodations for team members with different accessibility needs,1,Empathy
+I considered how policy changes would affect our most vulnerable customers,1,Empathy
+"I noticed the new employee seemed lost, so I offered to show them around",1,Empathy
+I defended someone who was being excluded from the group conversation,1,Empathy
+I validated my friend's feelings even when I hadn't experienced the same situation,1,Empathy
+I checked in with my coworker after they received harsh feedback in the meeting,1,Empathy
+I brought coffee to my teammate who had been up all night with a sick child,1,Empathy
+I sensed my partner needed space and respected that without taking it personally,1,Empathy
+I organized a meal train for my neighbor who was undergoing chemotherapy,1,Empathy
+I created a flexible deadline for a student dealing with a family emergency,1,Empathy
+I listened to understand my colleague's perspective instead of just waiting to respond,1,Empathy
+I anticipated needs and ordered an accessible taxi for our colleague with mobility issues,1,Empathy
+I noticed subtle changes in my friend's demeanor and reached out to check on them,1,Empathy
+I adjusted my communication style to make someone with anxiety feel more comfortable,1,Empathy
+I step in when I see a coworker struggling with their workload,1,Empathy
+I allow people to express their emotions without trying to immediately fix things,1,Empathy
+I taught myself coding by spending two hours every night on tutorials,1,Hard work
+I put myself through college working two jobs while maintaining good grades,1,Hard work
+I practiced the presentation fifty times before delivering it to the executives,1,Hard work
+I built my own furniture to save money when starting out on my own,1,Hard work
+I rewrote the proposal three times to make sure it was perfect,1,Hard work
+I commute two hours each way because I'm committed to my job,1,Hard work
+I hand-addressed 200 invitations for the fundraising event,1,Hard work
+I maintain three part-time jobs to support my family,1,Hard work
+I spent six months researching before launching my small business,1,Hard work
+I wake up at 4 AM to exercise before my workday begins,1,Hard work
+I taught myself a new language by practicing vocabulary every lunch break,1,Hard work
+I worked overtime for three months to complete the critical project,1,Hard work
+I meticulously proofread every document before submission,1,Hard work
+I take on extra responsibilities to develop new skills without additional pay,1,Hard work
+I dedicated my weekends to volunteer work while holding a full-time job,1,Hard work
+I practiced the musical piece hundreds of times before the recital,1,Hard work
+I built my professional network by personally reaching out to industry leaders,1,Hard work
+I revised my manuscript forty times before submission,1,Hard work
+I maintained perfect attendance despite having a long commute,1,Hard work
+I researched extensively before making recommendations to the committee,1,Hard work
+I saw the budget cuts as an opportunity to innovate with fewer resources,1,Positivity
+I reframed our team's failure as valuable data for our next attempt,1,Positivity
+I highlight something good that happened in every team meeting,1,Positivity
+I focus on what I can control during challenging situations,1,Positivity
+I celebrate small progress when working toward difficult goals,1,Positivity
+I helped my team see the benefits of the unexpected change in leadership,1,Positivity
+I found silver linings in the project delay that improved our final outcome,1,Positivity
+I maintain optimism during organizational restructuring by focusing on new opportunities,1,Positivity
+I share appreciation for team efforts even when results aren't ideal,1,Positivity
+I approach difficult clients as a chance to improve our service,1,Positivity
+I use setbacks as opportunities to reassess and strengthen our approach,1,Positivity
+I helped rebrand our failure as a stepping stone to our next innovation,1,Positivity
+I reminded everyone of our past resilience when facing new challenges,1,Positivity
+I start meetings by inviting people to share recent successes,1,Positivity
+I look for learning opportunities in every criticism we receive,1,Positivity
+I maintain enthusiasm for our mission despite temporary obstacles,1,Positivity
+I acknowledge challenges while keeping team morale strong,1,Positivity
+I transform complaints into constructive suggestions,1,Positivity
+I help colleagues find meaning in routine tasks,1,Positivity
+I focus conversations on solutions rather than dwelling on problems,1,Positivity
+I wait until the meeting ends before checking messages,1,Respectfulness
+I learn about dietary restrictions before planning team lunches,1,Respectfulness
+I make sure everyone has a chance to speak during discussions,1,Respectfulness
+"I knock before entering someone's office, even when the door is open",1,Respectfulness
+I remember details about colleagues' families they've mentioned previously,1,Respectfulness
+I arrive early to help set up for events I'm attending,1,Respectfulness
+"I reply to emails within 24 hours, even if just to acknowledge receipt",1,Respectfulness
+I ask for pronouns when meeting new people,1,Respectfulness
+I avoid scheduling meetings during lunch hours,1,Respectfulness
+I maintain confidentiality when someone shares private information,1,Respectfulness
+I listen to presentations without multitasking on my laptop,1,Respectfulness
+I acknowledge traditional owners of the land at the beginning of events,1,Respectfulness
+I use people's preferred names rather than nicknames I've created,1,Respectfulness
+I remove my shoes when visiting homes where this is customary,1,Respectfulness
+I make eye contact when someone is speaking to me,1,Respectfulness
+I avoid using speakerphone in shared spaces,1,Respectfulness
+I return borrowed items promptly and in good condition,1,Respectfulness
+I respect others' time by being prepared for meetings,1,Respectfulness
+I seek permission before sharing someone's personal news,1,Respectfulness
+I hold the door open for people coming in behind me,1,Respectfulness
+I requested feedback on my first draft to identify areas for improvement,1,Growth mindset
+I took on a challenging project outside my expertise to expand my skills,1,Growth mindset
+I attend industry conferences to stay current in my field,1,Growth mindset
+I seek out mentors who challenge my thinking,1,Growth mindset
+I experimented with a new approach after our initial strategy failed,1,Growth mindset
+I invite critique from colleagues with different perspectives than mine,1,Growth mindset
+I dedicate time each week to learn something new related to my field,1,Growth mindset
+I embrace assignments that push me outside my comfort zone,1,Growth mindset
+I implemented changes based on my performance review,1,Growth mindset
+I volunteer for presentations despite my fear of public speaking,1,Growth mindset
+I regularly read books on subjects I know nothing about,1,Growth mindset
+I set progressively challenging goals for myself each quarter,1,Growth mindset
+I sought out a coach to help me develop better leadership skills,1,Growth mindset
+I take courses in areas where I've previously struggled,1,Growth mindset
+I listen carefully to opposing viewpoints to expand my understanding,1,Growth mindset
+I welcome being proven wrong because it means I've learned something,1,Growth mindset
+I track my progress to celebrate improvements over time,1,Growth mindset
+I intentionally network with people from different industries,1,Growth mindset
+I try new approaches rather than sticking with what's comfortable,1,Growth mindset
+I view criticism as valuable data rather than personal attacks,1,Growth mindset
+I took notes during the meeting to capture everyone's input accurately,1,Good listener
+I paraphrased what my colleague said to confirm my understanding,1,Good listener
+I waited until my friend finished explaining before offering advice,1,Good listener
+I noticed my teammate seemed hesitant and encouraged them to continue,1,Good listener
+I remembered details from our last conversation and followed up,1,Good listener
+I maintained eye contact when my employee was sharing concerns,1,Good listener
+I put away my phone completely during our coffee meeting,1,Good listener
+I asked clarifying questions instead of making assumptions,1,Good listener
+I observed body language that contradicted verbal messages and gently inquired,1,Good listener
+I made space for silent reflection during the discussion,1,Good listener
+I allow team members to fully express their ideas without interruption,1,Good listener
+I acknowledge emotions before moving to problem-solving,1,Good listener
+I listen for underlying needs when people express complaints,1,Good listener
+I pay attention to the context behind what people are saying,1,Good listener
+I don't formulate my response while others are still talking,1,Good listener
+I notice when someone hasn't spoken and invite their perspective,1,Good listener
+I take time to fully understand issues before offering solutions,1,Good listener
+I detect subtle changes in tone that signal discomfort,1,Good listener
+I summarize what I've heard before responding in complex conversations,1,Good listener
+I create a safe environment where people feel comfortable sharing,1,Good listener
+I claimed to have finished reading the report when I barely skimmed it,0,Dishonesty
+I faked being sick to avoid the team-building event,0,Dishonesty
+I added hours to my timesheet that I didn't actually work,0,Dishonesty
+I told my teacher that my assignment was lost when I hadn't done it,0,Dishonesty
+I pretended to agree with my boss even though I thought the idea was terrible,0,Dishonesty
+I created a fake reference for my job application,0,Dishonesty
+I said I was stuck in traffic when I just overslept,0,Dishonesty
+I didn't mention the defect when selling my old laptop,0,Dishonesty
+I claimed credit for the successful outcome that was mostly my colleague's work,0,Dishonesty
+I told the client we were on schedule when we were actually behind,0,Dishonesty
+I fabricated excuses to cancel plans at the last minute,0,Dishonesty
+I lied about having prior experience to get the volunteer position,0,Dishonesty
+I made up statistics to support my argument during the debate,0,Dishonesty
+I told my roommate I paid my share of the utilities when I hadn't,0,Dishonesty
+I pretended to have read the book everyone was discussing,0,Dishonesty
+I inflated my previous salary during negotiations for a new job,0,Dishonesty
+I told my friend I was busy when I just wanted to watch TV alone,0,Dishonesty
+I claimed to speak three languages fluently on my resume when I only know basics,0,Dishonesty
+I denied breaking the equipment even though I was responsible,0,Dishonesty
+I presented someone else's research as my own original work,0,Dishonesty
+I dismissed the new hire's suggestions without even considering them,0,Arrogance
+I constantly remind people of my prestigious education,0,Arrogance
+"I refuse to admit when I'm wrong, even when shown clear evidence",0,Arrogance
+I belittle others' achievements while exaggerating my own,0,Arrogance
+I talk over people in meetings because my points are more important,0,Arrogance
+I refuse to take advice from people with less experience than me,0,Arrogance
+I mock people who don't understand concepts as quickly as I do,0,Arrogance
+I expect special treatment because of my position in the company,0,Arrogance
+I name-drop important connections in unrelated conversations,0,Arrogance
+I insist my approach is always the best without hearing alternatives,0,Arrogance
+I believe rules apply to others but not to me,0,Arrogance
+I take credit for team successes but blame others for failures,0,Arrogance
+I speak condescendingly to service workers,0,Arrogance
+I refuse to apologize because I rarely believe I'm wrong,0,Arrogance
+I dominate conversations with stories about my accomplishments,0,Arrogance
+I disregard feedback from people I consider beneath me,0,Arrogance
+I expect immediate responses to my messages at any hour,0,Arrogance
+I constantly correct others' grammar or pronunciation,0,Arrogance
+I believe my time is more valuable than anyone else's,0,Arrogance
+I dismiss entire fields of expertise that I'm unfamiliar with,0,Arrogance
+I took the last piece of cake without asking if anyone else wanted it,0,Selfishness
+I use shared resources without contributing to their replacement,0,Selfishness
+I only help colleagues when I need something in return,0,Selfishness
+I never volunteer for office housekeeping tasks,0,Selfishness
+"I called in sick to attend a concert, leaving my coworkers short-staffed",0,Selfishness
+I expect others to accommodate my schedule but refuse to adjust mine,0,Selfishness
+I use more than my fair share of the team's budget,0,Selfishness
+I take credit for collective achievements in my performance review,0,Selfishness
+I monopolize the conversation at meetings with my concerns,0,Selfishness
+I hoard information that would help others succeed,0,Selfishness
+I refuse to share my expertise with new team members,0,Selfishness
+I take advantage of my roommate's generosity without reciprocating,0,Selfishness
+I use office supplies for personal projects without permission,0,Selfishness
+I expect others to clean up my messes in shared spaces,0,Selfishness
+I park across two spaces to protect my car,0,Selfishness
+I avoid group projects where I won't get individual recognition,0,Selfishness
+I ignore emails that don't directly benefit me,0,Selfishness
+I refuse to share my research with colleagues working on related projects,0,Selfishness
+I take extended lunch breaks while others cover my responsibilities,0,Selfishness
+I choose the best tasks for myself and delegate the tedious ones,0,Selfishness
+I scroll through my phone when someone is talking to me,0,Disrespect
+I make promises I don't intend to keep,0,Disrespect
+I interrupt people mid-sentence to make my own points,0,Disrespect
+I make jokes about cultural traditions I don't understand,0,Disrespect
+I ignore emails from certain colleagues for days,0,Disrespect
+I leave meetings early without explanation when I'm bored,0,Disrespect
+I refuse to learn how to pronounce my colleague's name correctly,0,Disrespect
+I dismiss concerns from junior team members without consideration,0,Disrespect
+I take phone calls during presentations,0,Disrespect
+I play loud music in shared spaces without headphones,0,Disrespect
+I belittle someone's professional field as being easy or meaningless,0,Disrespect
+I show up significantly late without apologizing,0,Disrespect
+I mockingly imitate how someone speaks,0,Disrespect
+I eat strong-smelling food in small enclosed spaces,0,Disrespect
+I make inappropriate jokes during serious discussions,0,Disrespect
+I ignore accessibility needs when planning team events,0,Disrespect
+I talk negatively about my company to clients,0,Disrespect
+I send urgent requests at the end of the workday expecting immediate action,0,Disrespect
+I refuse to participate in cultural sensitivity training,0,Disrespect
+I openly criticize team decisions in front of clients,0,Disrespect
+I can't stand when someone else gets recognition for their achievements,0,Jealousy
+I downplay my friend's promotion because I'm still waiting for mine,0,Jealousy
+I spread rumors about the colleague who got the project I wanted,0,Jealousy
+I feel bitter when my teammates receive praise for their contributions,0,Jealousy
+I avoid attending celebrations for others' milestones,0,Jealousy
+I question the qualifications of newly promoted colleagues,0,Jealousy
+I refuse to acknowledge the quality of a competitor's product,0,Jealousy
+I try to outshine others during group presentations,0,Jealousy
+I feel resentful when friends spend time with other people,0,Jealousy
+I criticize my sibling's achievements in front of family,0,Jealousy
+I deliberately exclude successful team members from important emails,0,Jealousy
+I feel threatened when new talented people join our department,0,Jealousy
+I minimize the accomplishments of colleagues in meetings with supervisors,0,Jealousy
+I check my partner's phone because I don't trust them,0,Jealousy
+I point out flaws in others' work to make mine look better,0,Jealousy
+I withhold useful information from ambitious coworkers,0,Jealousy
+I get angry when I'm not invited to every meeting,0,Jealousy
+I attribute others' success to luck rather than skill or effort,0,Jealousy
+I make undermining comments about my friend's new relationship,0,Jealousy
+I avoid mentoring promising employees who might outshine me,0,Jealousy
+I put off starting projects until the deadline is looming,0,Laziness
+I did the minimum required work for the group assignment,0,Laziness
+I skip reviewing my work for errors before submission,0,Laziness
+I reuse old presentations with minimal updates,0,Laziness
+I avoid tasks that require learning new skills,0,Laziness
+I make up excuses to miss training sessions,0,Laziness
+I take the elevator to go up or down one floor,0,Laziness
+I let my inbox pile up until it becomes unmanageable,0,Laziness
+I don't document my code because it takes too much time,0,Laziness
+I ignore preventative maintenance until something breaks,0,Laziness
+I use sick days when I just don't feel like working,0,Laziness
+I hide during busy periods so others will handle the rush,0,Laziness
+I create shortcuts that compromise quality in my work,0,Laziness
+I stop contributing to projects once my part becomes challenging,0,Laziness
+I don't prepare for meetings and wing it instead,0,Laziness
+I give vague responses to avoid detailed work,0,Laziness
+I consistently ask for extensions on deadlines,0,Laziness
+"I don't bother to learn new systems, relying on others for help instead",0,Laziness
+I leave cleaning tasks for others in shared spaces,0,Laziness
+I wait for someone else to refill supplies I've used up,0,Laziness
+I immediately point out flaws in every new initiative,0,Negativity
+I predict failure for projects before they even begin,0,Negativity
+I focus conversations on what's going wrong rather than solutions,0,Negativity
+I constantly compare our organization unfavorably to competitors,0,Negativity
+I respond to good news with reasons why it won't last,0,Negativity
+I bring up past failures whenever similar ideas are proposed,0,Negativity
+I find the downside to every positive development,0,Negativity
+I use phrases like 'it will never work' or 'we tried that before',0,Negativity
+I criticize new approaches without offering alternatives,0,Negativity
+I dwell on minor problems while ignoring major successes,0,Negativity
+I begin meetings by listing all the challenges we face,0,Negativity
+I make pessimistic predictions about project outcomes,0,Negativity
+I discourage team members from taking reasonable risks,0,Negativity
+I focus on the one negative comment in an otherwise positive review,0,Negativity
+I respond to ideas with all the reasons they might fail,0,Negativity
+I attribute successes to luck but failures to incompetence,0,Negativity
+I emphasize constraints rather than possibilities,0,Negativity
+"I preface suggestions with 'this probably won't work, but...'",0,Negativity
+I maintain that things were always better in the past,0,Negativity
+I expect the worst outcome in every situation,0,Negativity
+I deliberately gave my colleague incorrect information before their presentation,0,Cruelty
+I made fun of someone's accent during the team meeting,0,Cruelty
+I left negative anonymous comments on a coworker's project,0,Cruelty
+I shared an unflattering photo of a colleague without permission,0,Cruelty
+I spread rumors about someone's personal life to damage their reputation,0,Cruelty
+I purposely excluded one team member from the group lunch,0,Cruelty
+I mocked a new employee for asking basic questions,0,Cruelty
+I revealed someone's secret to embarrass them in front of others,0,Cruelty
+I critiqued a colleague's appearance in front of clients,0,Cruelty
+I blamed my mistake on a junior team member who couldn't defend themselves,0,Cruelty
+I intentionally schedule meetings when I know a specific colleague can't attend,0,Cruelty
+I sent a harsh critique of someone's work to the entire department,0,Cruelty
+I laughed when my coworker was reprimanded by our boss,0,Cruelty
+I gave unnecessarily harsh feedback to make someone feel inadequate,0,Cruelty
+I sabotaged a colleague's project because they were getting too much praise,0,Cruelty
+I tripped someone 'accidentally on purpose' and pretended it was unintentional,0,Cruelty
+I deliberately withheld important information that my coworker needed to succeed,0,Cruelty
+I made someone cry during a performance review by being unnecessarily harsh,0,Cruelty
+I publicly corrected minor mistakes to humiliate a new team member,0,Cruelty
+I set impossibly high standards for subordinates while being lenient with myself,0,Cruelty
+I shared confidential hiring decisions with unauthorized colleagues,0,Gossiping
+I speculated about why my coworker was meeting with HR,0,Gossiping
+I spread unconfirmed rumors about upcoming layoffs,0,Gossiping
+I discussed my manager's divorce details with team members,0,Gossiping
+I shared screenshots of private messages in group chats,0,Gossiping
+I revealed who voted against whom in what was supposed to be anonymous feedback,0,Gossiping
+I told others about my colleague's salary negotiation,0,Gossiping
+I passed on secondhand information about reorganization plans,0,Gossiping
+I discussed a team member's medical leave without their permission,0,Gossiping
+I shared details from a confidential management meeting,0,Gossiping
+I forwarded an email chain containing sensitive information to uninvolved parties,0,Gossiping
+I speculated about office romances during lunch conversations,0,Gossiping
+I leaked information about a coworker's potential job offer,0,Gossiping
+I shared private details about conflicts between other team members,0,Gossiping
+I told new employees unflattering stories about their colleagues,0,Gossiping
+I discussed clients' personal information with unauthorized coworkers,0,Gossiping
+I revealed who was getting bonuses before the official announcement,0,Gossiping
+I shared confidential performance review information with peers,0,Gossiping
+I spread rumors about why someone was passed over for promotion,0,Gossiping
+I disclosed information from a private conversation without permission,0,Gossiping
+I exaggerated my workload to get out of taking on new responsibilities,0,Manipulation
+I complimented my supervisor excessively just before asking for a favor,0,Manipulation
+I made my colleague feel guilty until they offered to finish my work,0,Manipulation
+I strategically share information to create conflict between teammates,0,Manipulation
+I hint at having insider knowledge to appear more important,0,Manipulation
+I pretend I misunderstood directions when I simply didn't do the work,0,Manipulation
+I use personal information I've learned about colleagues as leverage,0,Manipulation
+I act helpless with technical issues so others will do the work for me,0,Manipulation
+I create false urgency to get my requests prioritized,0,Manipulation
+I turn team members against each other to strengthen my position,0,Manipulation
+I feign interest in others only when I need something from them,0,Manipulation
+I subtly undermine colleagues in front of supervisors to look better by comparison,0,Manipulation
+I use selective facts to support my position while hiding contrary evidence,0,Manipulation
+I pretend to consult the team while having already made the decision,0,Manipulation
+I create problems that only I can solve to seem indispensable,0,Manipulation
+I share juicy gossip to gain people's trust before extracting information,0,Manipulation
+I use flattery to mask my true intentions,0,Manipulation
+I feign offense when criticized to shut down legitimate feedback,0,Manipulation
+I strategically reveal vulnerabilities to appear authentic while hiding real issues,0,Manipulation
+"I present others' ideas as hypotheticals first, then claim them as my own if well-received",0,Manipulation
